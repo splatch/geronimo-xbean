@@ -36,7 +36,7 @@
     <packaging>pom</packaging>
     <inceptionYear>2005</inceptionYear>
 
-    <version>4.9</version>
+    <version>4.9.1-SNAPSHOT</version>
 
     <description>
         XBean is a plugin based server architecture.
